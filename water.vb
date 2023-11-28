@@ -1,7 +1,7 @@
 Module Module1
     Sub Main()
         Dim N As Integer
-        Console.Write("Enter a number: ")
+
         N = CInt(Console.ReadLine())
 
         Dim m As Integer = N \ 5
@@ -14,6 +14,6 @@ Module Module1
             result = (m + 1) * 5
         End If
 
-        Console.WriteLine("Result: " & result)
+        Console.WriteLine(result)
     End Sub
 End Module
