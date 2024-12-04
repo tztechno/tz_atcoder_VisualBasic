@@ -1,4 +1,4 @@
-# tz_atcoder_VBA
+# tz_atcoder_VisualBasic
 
 ### latest
 
